@@ -3,6 +3,7 @@
 I currently develop software at WeWork to empower interior designers and architects to design beautiful spaces at unprecedented scale. Previously, I co-founded Crater, a synthetic media startup, and was early at Matter, a manufacturing startup backed by Techstars. I hold an M.Eng in CS from Cornell Tech and did my undergrad at Cornell University.
 
 #### [👨‍🚀 View My Portfolio →](https://arpitsheth.com)
+#### [💼 View My LinkedIn →](https://linkedin.com/in/shetharp)
 
 <!--
 **shetharp/shetharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
