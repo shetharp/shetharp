@@ -4,6 +4,8 @@ I currently develop software at WeWork that brings our company's secret sauce—
 I'm a battle-tested starter, having co-founded Crater, a synthetic media startup, and hustled at Matter, a manufacturing startup backed by Techstars. 
 I hold an M.Eng in CS from Cornell Tech and did my undergrad at Cornell University.
 
+Get in touch if you're looking for a product-obsessed engineer to lead your next interdisciplinary project.
+
 #### [👨‍🚀 View My Portfolio →](https://arpitsheth.com)
 #### [💼 View My LinkedIn →](https://linkedin.com/in/shetharp)
 
