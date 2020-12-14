@@ -1,6 +1,6 @@
 ### 🎈 I am a startup-savvy engineer building technology for a more creative future. 
 
-I currently build products to help WeWork design and sell beautiful spaces around the world.
+I currently develop software at WeWork to design and sell beautiful spaces around the globe.
 I'm a battle-tested starter, having co-founded Crater, a synthetic media startup, and hustled at Matter, a manufacturing startup backed by Techstars. 
 I hold an M.Eng in CS from Cornell Tech and did my undergrad at Cornell University.
 
